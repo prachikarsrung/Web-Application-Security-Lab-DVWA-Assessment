@@ -54,7 +54,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 Routed browser traffic through Burp Suite's proxy and reviewed requests and responses in HTTP history to see exactly which parameters were injectable and how the server responded.
 
 ### 3. Automated scanning with OWASP ZAP
-Ran an automated scan against my own local DVWA instance and reviewed the alerts. Report: [zap/zap-dvwa-report.html](zap/zap-dvwa-report.html)
+Ran an automated scan against my own local DVWA instance and reviewed the alerts. Report: [zap/zap-dvwa-report.html](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/2026-11-06-ZAP-Report-.html)
 
 ### 4. Fix comparison (Low vs. Impossible)
 Repeated the same payloads at the **Impossible** level to confirm they fail, then reviewed what the secure code does differently.
