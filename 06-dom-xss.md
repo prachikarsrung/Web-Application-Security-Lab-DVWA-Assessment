@@ -34,11 +34,6 @@ The vulnerability lives in the browser-side code, not in a server response, whic
 ## Impact
 An attacker can send a victim a crafted link. When opened, the script runs in the site's context and can steal session data, perform actions as the user, or redirect to a malicious page.
 
-## Remediation
-- Avoid dangerous sinks (`document.write`, `innerHTML`). Use safe APIs such as `textContent`.
-- Validate the parameter against an allow-list (only known languages).
-- Encode data before inserting it into the DOM.
-- Add a **Content Security Policy** that blocks inline scripts.
 
 ## Low vs. Impossible
 At the **Impossible** level the payload no longer executes. Review DVWA's source (View Source button) and note how the value is handled differently.
