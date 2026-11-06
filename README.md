@@ -93,5 +93,8 @@ Burp Suite Community Edition, OWASP ZAP, DVWA, Google Chrome
 
 ## About
 
-**Prachi Kasrung**: BSc IT student, aspiring Security / SOC Analyst
-LinkedIn: ADD_YOUR_LINKEDIN_URL | GitHub: ADD_YOUR_GITHUB_URL
+**Prachi Kasrung**: BSc IT student, aspiring Security /
+LinkedIn: www.linkedin.com/in/
+prachi-kasrung-958258316
+Vanity URL name
+ | GitHub: https://github.com/dashboard
