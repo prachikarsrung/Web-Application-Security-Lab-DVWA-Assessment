@@ -36,7 +36,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 | 5 | Command Injection | A03: Injection | Low | Critical | [findings/05-command-injection.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/05-file-upload-TEMPLATE.md)|
 | 6 | file-upload-TEMPLATE | A03: Injection secure | Low | Critical | [findings/06-file-upload-TEMPLATE](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/06-dom-xss.md)
 
-> Risk ratings are my own assessment for a deliberately vulnerable lab app and are included to demonstrate the rating process.
+
 
 ---
 
@@ -69,8 +69,6 @@ Repeated the same payloads at the **Impossible** level to confirm they fail, the
 | Reflected / Stored / DOM XSS | User input written back to the page without encoding | Output encoding (e.g. `htmlspecialchars`), input validation, Content Security Policy |
 | Command Injection | User input passed straight to a shell command | Strict allow-list validation (numeric IP octets only); avoid shell calls |
 | File Upload | Weak or missing validation of file type and content | Allow-list of extensions, MIME and content checks, re-encoding images, storing files outside the web root |
-
-> Update this table with exactly what you observed in the Impossible-level source code.
 
 
 
