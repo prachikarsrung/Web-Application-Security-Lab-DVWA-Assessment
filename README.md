@@ -29,7 +29,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 
 | # | Vulnerability | OWASP Top 10 (2021) | Security level | Risk | Write-up |
 |---|---|---|---|---|---|
-| 1 | SQL Injection | A03: Injection | Low | High | [findings/01-sql-injection.md](findings/01-sql-injection.md) |
+| 1 | SQL Injection | A03: Injection | Low | High | [findings/01-sql-injection.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/01-sql-injection.md) |
 | 2 | Reflected XSS | A03: Injection | Low | Medium | [findings/02-reflected-xss.md](findings/02-reflected-xss.md) |
 | 3 | Stored XSS | A03: Injection | Low | High | [findings/03-stored-xss.md](findings/03-stored-xss.md) |
 | 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md](findings/04-dom-xss.md) |
