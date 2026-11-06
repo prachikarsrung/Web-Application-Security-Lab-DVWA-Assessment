@@ -32,7 +32,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 | 1 | SQL Injection | A03: Injection | Low | High | [findings/01-sql-injection.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/01-sql-injection.md) |
 | 2 | Reflected XSS | A03: Injection | Low | Medium | [findings/02-reflected-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/02-reflected-xss.md) |
 | 3 | Stored XSS | A03: Injection | Low | High | [findings/03-stored-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/03-stored-xss.md) |
-| 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md](findings/04-dom-xss.md) |
+| 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/04-command-injection.md) |
 | 5 | Command Injection | A03: Injection | Low | Critical | [findings/05-command-injection.md](findings/05-command-injection.md) |
 | 6 | Unrestricted File Upload | A04: Insecure Design | Low | High | [findings/06-file-upload.md](findings/06-file-upload.md) |
 
