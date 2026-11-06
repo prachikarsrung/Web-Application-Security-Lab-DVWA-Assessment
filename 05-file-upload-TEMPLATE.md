@@ -5,10 +5,10 @@
 | Category | Unrestricted File Upload (CWE-434), OWASP A04:2021 Insecure Design |
 | Location | `/vulnerabilities/upload/` |
 | Environment | DVWA, security level **Low**, `127.0.0.1:4280` |
-| Risk | TODO |
+| Risk |
 
 ## Status
-Your current screenshot only shows a normal PNG uploading successfully. That is expected behavior, not a vulnerability. To make this a real finding you must show the application accepting a file it should reject.
+ current screenshot only shows a normal PNG uploading successfully. That is expected behavior, not a vulnerability.
 
 ## What to test (safe, local lab only)
 1. Upload a harmless **text file renamed to .php or .txt** and see whether the app accepts it.
