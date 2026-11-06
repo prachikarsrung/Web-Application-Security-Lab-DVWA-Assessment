@@ -16,11 +16,8 @@ Your current screenshot only shows a normal PNG uploading successfully. That is 
 3. In Burp Suite, intercept the upload request and note the `Content-Type` and filename fields.
 4. Observe where the file is stored (the success message shows the path).
 
-## Notes
-- Your screenshot also showed "The PHP module GD is not installed". That affects the higher security levels (image re-processing), so enable GD in your PHP config if you want to test Medium/High/Impossible properly.
-- Keep any test file harmless. Do not upload working web shells.
 
-## Write-up (fill in after testing)
+## Write-up 
 - **Steps to reproduce:**
 - **Why it works:**
 - **Impact:** an attacker who can upload and execute server-side code may take control of the server.
