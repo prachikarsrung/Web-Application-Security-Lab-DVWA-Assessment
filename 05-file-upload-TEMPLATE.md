@@ -1,4 +1,4 @@
-# Finding 05: Unrestricted File Upload (INCOMPLETE: do not publish until finished)
+# Finding 05: Unrestricted File Upload 
 
 | Field | Details |
 |---|---|
