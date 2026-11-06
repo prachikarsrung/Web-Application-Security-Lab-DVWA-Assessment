@@ -5,7 +5,6 @@
 | Category | Unrestricted File Upload (CWE-434), OWASP A04:2021 Insecure Design |
 | Location | `/vulnerabilities/upload/` |
 | Environment | DVWA, security level **Low**, `127.0.0.1:4280` |
-| Risk |
 
 ## Status
  current screenshot only shows a normal PNG uploading successfully. That is expected behavior, not a vulnerability.
