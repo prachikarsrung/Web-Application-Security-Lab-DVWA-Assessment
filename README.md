@@ -34,6 +34,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 | 3 | Stored XSS | A03: Injection | Low | High | [findings/03-stored-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/03-stored-xss.md) |
 | 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md] |
 | 5 | Command Injection | A03: Injection | Low | Critical | [findings/05-command-injection.md]((https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/04-command-injection.md)) |
+| 6 | file-upload-TEMPLATE | A03: Injection secure | Low | Critical | [findings/05-command-injection.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/05-file-upload-TEMPLATE.md)
 
 > Risk ratings are my own assessment for a deliberately vulnerable lab app and are included to demonstrate the rating process.
 
