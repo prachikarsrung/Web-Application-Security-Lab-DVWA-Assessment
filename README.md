@@ -32,8 +32,8 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 | 1 | SQL Injection | A03: Injection | Low | High | [findings/01-sql-injection.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/01-sql-injection.md) |
 | 2 | Reflected XSS | A03: Injection | Low | Medium | [findings/02-reflected-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/02-reflected-xss.md) |
 | 3 | Stored XSS | A03: Injection | Low | High | [findings/03-stored-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/03-stored-xss.md) |
-| 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md](https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/04-command-injection.md) |
-| 5 | Command Injection | A03: Injection | Low | Critical | [findings/05-command-injection.md](findings/05-command-injection.md) |
+| 4 | DOM-based XSS | A03: Injection | Low | Medium | [findings/04-dom-xss.md] |
+| 5 | Command Injection | A03: Injection | Low | Critical | [findings/05-command-injection.md]((https://github.com/prachikarsrung/Web-Application-Security-Lab-DVWA-Assessment/blob/main/04-command-injection.md)) |
 
 > Risk ratings are my own assessment for a deliberately vulnerable lab app and are included to demonstrate the rating process.
 
