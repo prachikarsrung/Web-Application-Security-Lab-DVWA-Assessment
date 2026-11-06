@@ -8,7 +8,7 @@ Hands-on vulnerability assessment of **DVWA (Damn Vulnerable Web Application)** 
 
 ## Demo video
 
-[Watch the walkthrough](ADD_YOUR_YOUTUBE_OR_DRIVE_LINK_HERE)  (about 4.5 minutes: SQL injection, XSS, command injection, file upload, Burp Suite and ZAP)
+[Watch the walkthrough](https://drive.google.com/file/d/1Y_eZa2PNa8IEcJ1WzLYIeMwhiv-APHMS/view?usp=drive_link)  (about 4.5 minutes: SQL injection, XSS, command injection, file upload, Burp Suite and ZAP)
 
 ---
 
