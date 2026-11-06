@@ -72,18 +72,7 @@ Repeated the same payloads at the **Impossible** level to confirm they fail, the
 
 > Update this table with exactly what you observed in the Impossible-level source code.
 
----
 
-## Repository structure
-
-```
-.
-├── README.md
-├── findings/          # One write-up per vulnerability
-├── screenshots/       # Redacted evidence images
-├── burp/              # Burp Suite request/response notes
-└── zap/               # ZAP report for the local DVWA scan
-```
 
 ---
 
